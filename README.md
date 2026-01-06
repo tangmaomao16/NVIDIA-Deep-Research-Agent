@@ -34,7 +34,7 @@ BDRA课程的简介
 
 Build a Deep Research Agent这门课程（简称BDRA），想要教会我们搭建、部署、运行一个可以做深度研究的AI 助手。这个AI助手的最终输出形态，是一种研究性报告文章。比如，我想做金融经济方面的研究，并生成一份研究报告。我只需要告诉这个AI助手一个具体的话题，例如“Amazon's 2023 Financial Performance Analysis”(亚马逊公司 2023 年财务业绩分析)，然后它就会去把大的任务拆解为一些列小的任务，查找相关的资料，生成研究报告的各个章节，并进行反思和检查，还可以允许作为人类的我在工作流程中做一些指导和约束，最终生成一份有深度的、高质量的研究报告文章（见图01）。
 
-![MarkText](img\01-DeepResearchAgent效果图.png)
+![MarkText](img/01-DeepResearchAgent效果图.png)
 
 图01. Deep Research Agent 效果图
 
@@ -260,3 +260,4 @@ Build a Deep Research Agent课程的高层框架如下（见图14）。
 
 
 其实这门课程，总体来说已经算是对小白挺友好的了。但是，对于学员的要求，还是需要有一些入门基础的。我感觉最好的适用对象，就是我这种水平的人了。那么，我是什么样的水平呢？我就是在NVIDIA英伟达2025年度黑客松Agent大赛（中国）勇夺"优胜奖"的人！当时对NVIDIA的Agent是一点都没接触过，就是通过那次黑客松比赛，对Agent的应用部署有了上手体验，然后逐渐学习了很多关于Agent的知识。这次学习Build a Deep Research Agent，算是上次Agent大赛延伸出来的一个专题篇--聚焦于如何应用Agent生成高质量的研究报告。通过这次"迷你黑客松"式的浅学，又一次加深了我关于Agent的学习。希望2026年在NVIDIA社区中我们能共同进步吧！
+
